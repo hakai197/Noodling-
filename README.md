@@ -1,1 +1,4 @@
-# Noodling-
+Book Tracker is a program for book goblins like myself.  Those people who love to read and buy books faster than they can turn the page.  
+I want to use this to keep track of the books I've read, want to re-read and books on by TBR.  
+I also want it to keep track of those ponderus tomes that sit on my shelf that I forgot I bought in a rampant Half-Priced Books spree.  
+Hoping to make it humorous and moblie.  
